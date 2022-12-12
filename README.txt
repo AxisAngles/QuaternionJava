@@ -1,4 +1,3 @@
-This is a work in progress. It is currently untested.
-It is not included with a Vector3f or Matrix3f class.
-Methods are largely undocumented.
-Reference at your own risk.
+This is a work in progress. It is currently somewhat untested.
+The Vector3f and Matrix3f classes are for minimum functionality.
+Some methods are undocumented.
